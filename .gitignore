@@ -2,3 +2,4 @@
 polling-places.R # Get data, generate summary plots
 index.html
 index_files
+.Rproj.user
